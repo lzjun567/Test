@@ -1,7 +1,7 @@
 package com.interview;
 
 /**
- * ÓÊÏä·¢ËÍ
+ * é‚®ç®±å‘é€
  * @author liuzhijun
  *
  */
@@ -11,7 +11,7 @@ public class EmailMessage extends Message {
 	}
 	@Override
 	public void send(){
-		//Ä£ÄâÓÊ¼ş·¢ËÍ
+		//æ¨¡æ‹Ÿé‚®ä»¶å‘é€
 		System.out.println("use template " + this.getTemplate()+
 				"to sened  email, the cotnent is "+this.getContent());
 		

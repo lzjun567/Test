@@ -1,7 +1,7 @@
 package com.interview;
 
 /**
- * ¶ÌĞÅ·¢ËÍ
+ * çŸ­ä¿¡å‘é€
  * @author liuzhijun
  *
  */
@@ -13,7 +13,7 @@ public class ShortMessage extends Message{
 
 	@Override
 	public void send() {
-		//Ä£Äâ¶ÌĞÅ·¢ËÍ
+		//æ¨¡æ‹ŸçŸ­ä¿¡å‘é€
 		System.out.println("used template " + this.getTemplate()+ 
 				" to sened  shrotmessage, the content is "+this.getContent());
 		

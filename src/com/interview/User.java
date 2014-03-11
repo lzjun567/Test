@@ -20,7 +20,7 @@ public class User {
 	}
 	
 	/**
-	 * 用户注册消息类型
+	 * 鐢ㄦ埛娉ㄥ唽娑堟伅绫诲瀷
 	 * @param message
 	 */
 	public void register(Message message){

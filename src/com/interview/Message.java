@@ -1,14 +1,14 @@
 package com.interview;
 
 /**
- * ÏûÏ¢³éÏóÀà
+ * æ¶ˆæ¯æŠ½è±¡ç±»
  * @author liuzhijun
  *
  */
 public abstract class Message {
 	
-	private String content;  //ÏûÏ¢ÄÚÈİ
-	private String template; //Ä£°æÂ·¾¶
+	private String content;  //æ¶ˆæ¯å†…å®¹
+	private String template; //æ¨¡ç‰ˆè·¯å¾„
 	public String getContent() {
 		return content;
 	}
@@ -29,7 +29,7 @@ public abstract class Message {
 	}
 	
 	/**
-	 * ¾ßÌåµÄ·¢ËÍ·½Ê½ÓĞ×ÓÀàÊµÏÖ
+	 * å…·ä½“çš„å‘é€æ–¹å¼æœ‰å­ç±»å®ç°
 	 * @param user
 	 */
 	public abstract void send();

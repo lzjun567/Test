@@ -3,7 +3,7 @@ package com.interview;
 import java.util.Iterator;
 
 /**
- * ·¢ËÍÏûÏ¢µÄ¿ØÖÆÆ÷
+ * å‘é€æ¶ˆæ¯çš„æ§åˆ¶å™¨
  * @author liuzhijun
  *
  */
